@@ -1,0 +1,6 @@
+{
+  "name": "Aura Spa & Wellness - SPA Zen Admin",
+  "description": "SaaS integral para spas, clínicas de bienestar y centros holísticos. Gestión de agenda de cabinas, cuestionario médico e intake digital, expedientes clínicos con alertas de contraindicaciones, cobro POS y corte de caja automatizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
